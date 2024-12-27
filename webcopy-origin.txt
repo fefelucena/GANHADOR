@@ -1,0 +1,76 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css
+File Name: C:\Downloaded Web Sites\viva-ganhador.app\ajax\libs\font-awesome\6.0.0\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\viva-ganhador.app\ajax\libs\font-awesome\6.0.0\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\viva-ganhador.app\ajax\libs\font-awesome\6.0.0\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\viva-ganhador.app\ajax\libs\font-awesome\6.0.0\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\viva-ganhador.app\ajax\libs\font-awesome\6.0.0\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\viva-ganhador.app\ajax\libs\font-awesome\6.0.0\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\viva-ganhador.app\ajax\libs\font-awesome\6.0.0\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\viva-ganhador.app\ajax\libs\font-awesome\6.0.0\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\viva-ganhador.app\ajax\libs\font-awesome\6.0.0\webfonts\fa-v4compatibility.woff2
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\viva-ganhador.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\viva-ganhador.app\s\poppins\v22\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\viva-ganhador.app\s\poppins\v22\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\viva-ganhador.app\s\poppins\v22\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\viva-ganhador.app\s\poppins\v22\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://viva-ganhador.app/
+File Name: C:\Downloaded Web Sites\viva-ganhador.app\index.htm
+Content Type: text/html
+
+Uri: https://viva-ganhador.app/images/iphone-image.jpg
+File Name: C:\Downloaded Web Sites\viva-ganhador.app\images\iphone-image.jpg
+Content Type: image/jpeg
+
+Uri: https://viva-ganhador.app/script.js
+File Name: C:\Downloaded Web Sites\viva-ganhador.app\script.js
+Content Type: application/javascript
+
+Uri: https://viva-ganhador.app/styles.css
+File Name: C:\Downloaded Web Sites\viva-ganhador.app\styles.css
+Content Type: text/css
+
+Uri: https://vivasorteoficial.com.br/assets/colorful-34a00d09.svg
+File Name: C:\Downloaded Web Sites\viva-ganhador.app\assets\colorful-34a00d09.svg
+Content Type: image/svg+xml
+
